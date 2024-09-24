@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507588147754",
+    "project_id": "fir-storetodo",
+    "storage_bucket": "fir-storetodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507588147754:android:00ef9c2f64dfaa846da153",
+        "android_client_info": {
+          "package_name": "com.demoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7z_IW-uDLTildxKT1IAHEqwoW2bT9Vu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
